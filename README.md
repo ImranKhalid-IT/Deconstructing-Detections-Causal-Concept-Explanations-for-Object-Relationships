@@ -1,4 +1,4 @@
-# YOLOv5 Object Detection Explanation & Visualization
+# YOLOv5/Faster RCNN Object Detection Explanation & Visualization
 
 This repository provides a framework to run object detection on images using YOLOv5 and generate explainable visualizations for selected objects. The code supports batch analysis for figures, as well as optional tables and single-example explanations.  
 
